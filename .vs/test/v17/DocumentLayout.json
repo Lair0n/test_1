@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B036904-8BAC-44AE-BF2D-756C32BFAB86}|test\\test.csproj|c:\\users\\user\\desktop\\test\\test\\pages\\manager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B036904-8BAC-44AE-BF2D-756C32BFAB86}|test\\test.csproj|solutionrelative:test\\pages\\manager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B036904-8BAC-44AE-BF2D-756C32BFAB86}|test\\test.csproj|C:\\Users\\User\\Desktop\\test\\test\\pages\\manager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B036904-8BAC-44AE-BF2D-756C32BFAB86}|test\\test.csproj|solutionrelative:test\\pages\\manager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B036904-8BAC-44AE-BF2D-756C32BFAB86}|test\\test.csproj|C:\\Users\\User\\Desktop\\test\\test\\pages\\addposetitel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B036904-8BAC-44AE-BF2D-756C32BFAB86}|test\\test.csproj|solutionrelative:test\\pages\\addposetitel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B036904-8BAC-44AE-BF2D-756C32BFAB86}|test\\test.csproj|C:\\Users\\User\\Desktop\\test\\test\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B036904-8BAC-44AE-BF2D-756C32BFAB86}|test\\test.csproj|solutionrelative:test\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B036904-8BAC-44AE-BF2D-756C32BFAB86}|test\\test.csproj|C:\\Users\\User\\Desktop\\test\\test\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B036904-8BAC-44AE-BF2D-756C32BFAB86}|test\\test.csproj|solutionrelative:test\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B036904-8BAC-44AE-BF2D-756C32BFAB86}|test\\test.csproj|C:\\Users\\User\\Desktop\\test\\test\\pages\\spisokkomnat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B036904-8BAC-44AE-BF2D-756C32BFAB86}|test\\test.csproj|solutionrelative:test\\pages\\spisokkomnat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B036904-8BAC-44AE-BF2D-756C32BFAB86}|test\\test.csproj|C:\\Users\\User\\Desktop\\test\\test\\pages\\spisokkomnat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B036904-8BAC-44AE-BF2D-756C32BFAB86}|test\\test.csproj|solutionrelative:test\\pages\\spisokkomnat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B036904-8BAC-44AE-BF2D-756C32BFAB86}|test\\test.csproj|C:\\Users\\User\\Desktop\\test\\test\\pages\\porte.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B036904-8BAC-44AE-BF2D-756C32BFAB86}|test\\test.csproj|solutionrelative:test\\pages\\porte.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B036904-8BAC-44AE-BF2D-756C32BFAB86}|test\\test.csproj|C:\\Users\\User\\Desktop\\test\\test\\pages\\porte.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B036904-8BAC-44AE-BF2D-756C32BFAB86}|test\\test.csproj|solutionrelative:test\\pages\\porte.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B036904-8BAC-44AE-BF2D-756C32BFAB86}|test\\test.csproj|C:\\Users\\User\\Desktop\\test\\test\\pages\\autho.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B036904-8BAC-44AE-BF2D-756C32BFAB86}|test\\test.csproj|solutionrelative:test\\pages\\autho.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B036904-8BAC-44AE-BF2D-756C32BFAB86}|test\\test.csproj|C:\\Users\\User\\Desktop\\test\\test\\pages\\addposetitel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B036904-8BAC-44AE-BF2D-756C32BFAB86}|test\\test.csproj|solutionrelative:test\\pages\\addposetitel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manager.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\test\\test\\Pages\\Manager.xaml",
+              "RelativeDocumentMoniker": "test\\Pages\\Manager.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\test\\test\\Pages\\Manager.xaml",
+              "RelativeToolTip": "test\\Pages\\Manager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-22T23:27:21.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\test\\test\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "test\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\test\\test\\MainWindow.xaml",
+              "RelativeToolTip": "test\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-22T23:26:37.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\test\\test\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "test\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\test\\test\\MainWindow.xaml.cs",
+              "RelativeToolTip": "test\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T23:26:36.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpisokKomnat.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\test\\test\\Pages\\SpisokKomnat.xaml.cs",
+              "RelativeDocumentMoniker": "test\\Pages\\SpisokKomnat.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\test\\test\\Pages\\SpisokKomnat.xaml.cs",
+              "RelativeToolTip": "test\\Pages\\SpisokKomnat.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T23:26:31.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpisokKomnat.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\test\\test\\Pages\\SpisokKomnat.xaml",
+              "RelativeDocumentMoniker": "test\\Pages\\SpisokKomnat.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\test\\test\\Pages\\SpisokKomnat.xaml",
+              "RelativeToolTip": "test\\Pages\\SpisokKomnat.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-22T23:26:28.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Porte.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\test\\test\\Pages\\Porte.xaml.cs",
+              "RelativeDocumentMoniker": "test\\Pages\\Porte.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\test\\test\\Pages\\Porte.xaml.cs",
+              "RelativeToolTip": "test\\Pages\\Porte.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T23:26:18.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Porte.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\test\\test\\Pages\\Porte.xaml",
+              "RelativeDocumentMoniker": "test\\Pages\\Porte.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\test\\test\\Pages\\Porte.xaml",
+              "RelativeToolTip": "test\\Pages\\Porte.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-22T23:26:17.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\test\\test\\Pages\\Manager.xaml.cs",
+              "RelativeDocumentMoniker": "test\\Pages\\Manager.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\test\\test\\Pages\\Manager.xaml.cs",
+              "RelativeToolTip": "test\\Pages\\Manager.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T23:26:14.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Autho.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\test\\test\\Pages\\Autho.xaml",
+              "RelativeDocumentMoniker": "test\\Pages\\Autho.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\test\\test\\Pages\\Autho.xaml",
+              "RelativeToolTip": "test\\Pages\\Autho.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-22T23:26:05.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddPosetitel.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\test\\test\\Pages\\AddPosetitel.xaml.cs",
+              "RelativeDocumentMoniker": "test\\Pages\\AddPosetitel.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\test\\test\\Pages\\AddPosetitel.xaml.cs",
+              "RelativeToolTip": "test\\Pages\\AddPosetitel.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T23:25:50.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddPosetitel.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\test\\test\\Pages\\AddPosetitel.xaml",
+              "RelativeDocumentMoniker": "test\\Pages\\AddPosetitel.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\test\\test\\Pages\\AddPosetitel.xaml",
+              "RelativeToolTip": "test\\Pages\\AddPosetitel.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-22T23:25:49.264Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
